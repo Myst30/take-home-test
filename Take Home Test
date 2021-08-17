@@ -6,6 +6,16 @@ syarat:
 
 n=number of card in a deck
 
+  O(n)
+1.   tell the victim to pick a random card
+2.
+3.   guess from #1 to #52
+4.   if the victim say "yes"
+5.   	congratulations you're awesome
+6.   else if the victim say "no"
+7.   	ohh no please try again
+
+
    O(log n)
 1.   tell the victim to pick a random card
 2.   Assume (Ace of Diamond is Card#1, Two of Diamond is Card#2, and so on until King of Clubs is card #52)
@@ -24,11 +34,4 @@ n=number of card in a deck
 
 
 
-   O(n)
-1.   tell the victim to pick a random card
-2.
-3.   guess from #1 to #52
-4.   if the victim say "yes"
-5.   	congratulations you're awesome
-6.   else if the victim say "no"
-7.   	ohh no please try again
+ 
