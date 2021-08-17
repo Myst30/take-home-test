@@ -2,9 +2,9 @@ syarat:
 	- urutan:
 		> Diamond, Heart, Spades, Clubs
 		> A,2,3,4,5,6,7,8,9,10,J,Q,K
-	- in each guess the spectator will answer whether the sequence of cards is smaller than guessed or bigger than guessed
+	- in each guess the spectator will answer whether the sequence of cards is smaller than guessed card or bigger than guessed card
 
-n=number of card in a deck
+n = number of card in a deck
 
   O(n)
 1.   tell the victim to pick a random card
